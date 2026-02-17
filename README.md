@@ -84,3 +84,6 @@ pytest
 ```
 
 All tests should pass before making a Pull Request.
+
+## Team Notes:
+This project uses Python 3.12.10 and it will run inside 
