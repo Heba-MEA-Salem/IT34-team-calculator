@@ -28,4 +28,5 @@ def mul(a, b):
 
 def div(a, b):
     """Return a divided by b. Developer D owns this function."""
-    pass
+    return a / b
+
