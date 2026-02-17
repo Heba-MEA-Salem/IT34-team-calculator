@@ -25,8 +25,8 @@ def sub(a, b):
 
 def mul(a, b):
     """Return the product of a and b. Developer C owns this function."""
+    return a * b
     pass
-
 
 def div(a, b):
     """Return a divided by b. Developer D owns this function."""
