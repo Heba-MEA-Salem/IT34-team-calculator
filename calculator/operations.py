@@ -15,6 +15,7 @@ That's part of the exercise.
 
 def add(a, b):
     """Return the sum of a and b. Developer A owns this function."""
+    return a+b
     pass
 
 
@@ -25,7 +26,6 @@ def sub(a, b):
 
 def mul(a, b):
     """Return the product of a and b. Developer C owns this function."""
-    return a * b
     pass
 
 def div(a, b):

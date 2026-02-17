@@ -1,3 +1,4 @@
+
 """
 main.py
 
@@ -13,6 +14,7 @@ def main():
     print("=== Team Calculator ===")
     print("Available operations: add, sub, mul, div")
     print("Type 'exit' to quit.\n")
+
 
     while True:
         operation = input("Choose operation: ").strip().lower()
@@ -56,3 +58,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
