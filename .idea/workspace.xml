@@ -33,7 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "feature/mul",
+    "git-widget-placeholder": "feature/sub",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Muhammad Adnan Saeed/OneDrive/Desktop/IT34-team-calculator",
     "to.speed.mode.migration.done": "true"
@@ -55,5 +55,8 @@
       <updated>1771331978209</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IT34_team_calculator$operations.coverage" NAME="operations Coverage Results" MODIFIED="1771334005153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calculator" />
   </component>
 </project>
