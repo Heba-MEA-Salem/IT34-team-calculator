@@ -15,8 +15,6 @@ That's part of the exercise.
 
 def add(a, b):
     """Return the sum of a and b. Developer A owns this function."""
-    return a + b
-
     pass
 
 
