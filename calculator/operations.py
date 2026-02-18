@@ -12,11 +12,11 @@ This shared file is intentional. You will probably create merge conflicts.
 That's part of the exercise.
 """
 def format_result(result):
-    return f"Result is: {result}"
+    return f"The result is: {result}"
 
 def add(a, b):
     """Return the sum of a and b. Developer A owns this function."""
-    return a+b
+    return format_result(a+b)
 
 
 def sub(a, b):
